@@ -12,5 +12,5 @@ function calcularViagem() {
     var resultado = quantidadePassageiros * valorViagem;
 
     // Exibir o resultado
-    alert("Olá " + nome + ", o valor total da viagem para " + quantidadePassageiros + " passageiros é: R$ " + resultado.toFixed(2));
+    // Aqui alocaremos o resultado dentro da tabela
 }
